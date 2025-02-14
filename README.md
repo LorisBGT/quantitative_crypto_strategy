@@ -12,7 +12,6 @@ Ce projet a pour objectif de développer des stratégies quantitatives pour l'an
 ## Structure du projet
 - `btc_usdt_1h.csv` : Données historiques horaires de Bitcoin
 - `btc_indicators_weekly.csv` : Indicateurs hebdomadaires pour l'analyse
-- `fear_and_greed_history.csv` : Historique de l'indice de peur et de cupidité
 - `scripts/` : Scripts Python pour le calcul des indicateurs et la génération des graphiques
 - `notebooks/` : Notebooks Jupyter pour l'exploration et la validation des stratégies
 
