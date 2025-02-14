@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+optuna
+ipywidgets
+bokeh
+requests
