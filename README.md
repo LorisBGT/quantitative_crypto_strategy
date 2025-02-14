@@ -40,7 +40,7 @@ pip install -r requirements.txt
 - Export automatique des résultats en CSV
 
 ## Auteurs
-- [Votre nom] - Chief Marketing Officer et passionné d'analyse quantitative
+- Loris Bourgeault - Chief Marketing Officer et passionné d'analyse quantitative
 
 ## Remarques
 Projet en cours d'évolution avec intégration future d'autres indicateurs et de modèles de machine learning décentralisés sur Solana.
